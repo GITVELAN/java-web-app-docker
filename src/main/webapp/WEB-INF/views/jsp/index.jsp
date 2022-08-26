@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To FunWorld.</h2>
+			<h2>Welcome To VelanWebpage.</h2>
 			<h3>Contact @ +91-9123456789 </h3>
 		</div>	
 	</div>
@@ -48,7 +48,8 @@
 
 	<hr>
 	<footer>
-		<p>&copy; FunWorld 2022</p>
+		<p>&copy; WORK HARD </p>
+		<p>&copy; SUCCESS </p>
 	</footer>
 </div>
 
